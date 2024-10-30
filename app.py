@@ -1,5 +1,4 @@
-from custom_importer import ifcopenshell
-
+import ifcopenshell
 #import ifcopenshell.api
 #import ifcopenshell.guid
 #import ifcopenshell.util.selector
